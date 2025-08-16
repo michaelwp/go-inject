@@ -361,16 +361,3 @@ func TestUserService(t *testing.T) {
 ## Contributing 🤝
 
 Contributions are welcome! Please read our contributing guidelines and submit pull requests to the main repository.
-
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Changelog 📝
-
-### v1.0.0
-- Initial release
-- Core dependency injection functionality
-- Generic helper methods
-- Comprehensive test suite
-- Thread-safe operations
